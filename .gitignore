@@ -32,3 +32,4 @@ ssd/train
 ssd/test
 adssd/train
 adssd/test
+*.zip
