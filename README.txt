@@ -42,7 +42,10 @@ Giải nén 2 thư mục train vào thư mục ssd / adssd
 	+ conda activate pytorch_env
 	+ python -m tools.infer --evaluate True --infer_samples False
 
-*** DEMO ***
+--- DEMO ---
+
+*** YÊU CẦU ***
+Có sẵn các model trong thư mục voc (nếu clone từ github sẽ có sẵn)
 	+ Mở miniconda3 tại thư mục làm việc chính (cs406)
 	+ conda activate pytorch_env
 	+ streamlit run demo.py
