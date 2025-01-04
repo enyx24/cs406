@@ -5,7 +5,8 @@ Nguyễn Quốc Hưng - 22520516
 Nguyễn Trọng Nhân - 22521005
 
 --- LINK DATASET ---
-https://drive.google.com/file/d/1WNy9IapqRqmSOTDVBzBY9YpHS_DhnjKF/view?usp=sharing
+Cho SSD/ADSSD: https://drive.google.com/file/d/1WNy9IapqRqmSOTDVBzBY9YpHS_DhnjKF/view?usp=sharing
+Cho YOLOv8: https://www.kaggle.com/datasets/lakshaytyagi01/fruit-detection?fbclid=IwZXh0bgNhZW0CMTEAAR1mCbBNO2o2oadRmTn61xJ9mq0Uw9jXYddV585-2Zgxa2sgYYssR85tcrE_aem_lfpSzIsset4hBnfJnUAYCQ
 
 --- LINK SOURCE CODE---
 https://github.com/enyx24/cs406
@@ -49,4 +50,9 @@ Có sẵn các model trong thư mục voc (nếu clone từ github sẽ có sẵ
 	+ Mở miniconda3 tại thư mục làm việc chính (cs406)
 	+ conda activate pytorch_env
 	+ streamlit run demo.py
+
+--- YOLOV8 ---
+Chạy file jupyter notebook yolov8-fruit-detection.ipynb trên kaggle.
+
+
 
