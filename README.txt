@@ -36,7 +36,7 @@ Giải nén thư mục train vào thư mục ssd / adssd
 --- EVALUATION ---
 
 *** YÊU CẦU ***
-Giải nén 2 thư mục train vào thư mục ssd / adssd
+Giải nén thư mục test vào thư mục ssd / adssd
 
 *** EVALUATION ***
 	+ Mở miniconda3 tại thư mục ssd hoặc adssd
@@ -47,12 +47,11 @@ Giải nén 2 thư mục train vào thư mục ssd / adssd
 
 *** YÊU CẦU ***
 Có sẵn các model trong thư mục voc (nếu clone từ github sẽ có sẵn)
-	+ Mở miniconda3 tại thư mục làm việc chính (cs406)
+Link thư mục chứa các model: https://github.com/enyx24/cs406/tree/master/voc (tải về đưa vào thư mục voc)
+*** DEMO ***
+	+ Mở miniconda3 tại thư mục làm việc chính (source / cs406)
 	+ conda activate pytorch_env
 	+ streamlit run demo.py
 
 --- YOLOV8 ---
 Chạy file jupyter notebook yolov8-fruit-detection.ipynb trên kaggle.
-
-
-
